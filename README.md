@@ -6,7 +6,7 @@
 <div align="center">
 im Axel new in programming and love to learn, i use linux only
   
-  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/wanaxel/quotes/blob/main/quotes.jsontheme=monokai&layout=churchill&font=Redressed&animation=grow_out_in)
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/wanaxel/quotes/blob/main/quotes.jsontheme=monokai&layout=churchill&font=Redressed)
 </div>
 
 
