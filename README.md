@@ -4,5 +4,5 @@
 
 ##
 <div align="center">
-im Axel new in programming, i use arch btw and love to learn everything
+im Axel new in programming and love to learn, i use arch btw
 </div>
