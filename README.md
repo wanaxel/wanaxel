@@ -5,6 +5,8 @@
 ##
 <div align="center">
 im Axel new in programming and love to learn, i use arch btw
-  ![image](https://github.com/user-attachments/assets/4c7923c9-f007-4b25-90e2-8ffb53e9eaee)
+
+  ![image](https://github.com/user-attachments/assets/2b9988b2-cee9-45de-8d8c-76ba8e783deb)
+
 
 </div>
