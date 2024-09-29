@@ -3,5 +3,6 @@
 </div>
 
 ##
-
-im Axel a newbie programmer i mostly prefer deployment and linux administration rather than coding, and yeah i use linux only
+<div align="center">
+im Axel new in programming, i use linux only and love to learn everything
+</div>
