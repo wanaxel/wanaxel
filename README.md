@@ -4,9 +4,9 @@
 
 ##
 <div align="center">
-im Axel new in programming and love to learn, i use arch btw
+im Axel new in programming and love to learn, i use linux only
 
-  ![image](https://github.com/user-attachments/assets/2b9988b2-cee9-45de-8d8c-76ba8e783deb)
+<img src="https://github.com/user-attachments/assets/2b9988b2-cee9-45de-8d8c-76ba8e783deb" width="200" height="400"/> 
 
 
 </div>
