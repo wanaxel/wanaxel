@@ -5,9 +5,9 @@
 ##
 <div align="center">
 im Axel new in programming and love to learn, i use linux only
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=monokai)
 </div>
 
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=monokai)
 
 
 
