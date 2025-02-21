@@ -7,7 +7,7 @@
 <div align="center">
 
   
-  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/wanaxel/quotes/blob/main/quotes.json&theme=dark&layout=churchill&font=Redressed)
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/wanaxel/quotes/blob/main/quotes.json&theme=dark&layout=&font=Redressed)
 </div>
 
 
