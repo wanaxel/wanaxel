@@ -1,7 +1,7 @@
 <div align="center">
   <img height="100%" src="https://github.com/user-attachments/assets/c15f7600-ede0-41da-bd62-dc58c2359b58"/><br/><br/>
   <h2>Hey, I'm Axel 👋</h2>
-  <p>New to programming, Linux-only user, and "i use arch btw".</p>
+  <p>New to programming, Linux-only, and "i use arch btw".</p>
 </div>
 
 ---
