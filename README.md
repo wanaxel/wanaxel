@@ -20,7 +20,7 @@
 
 - **OS**: Arch Linux (Hyprland WM)
 - **Languages**: Bash, Python, JavaScript, C, Java (Love to learn more)
-- **Libraries/Frameworks**: React, Node.js, Express
+- **Libraries/Frameworks**: React, Node.js, Express, Flask
 - **Tools**: Docker, NGINX, SSH, Netcat, Git, Systemd, AWS EC2, Apache
 - **Editor**: Neovim, Nano (Nano is goated)
 - **Shells**: bash, zsh, fish (i daily drive fish)
