@@ -8,22 +8,53 @@
 
 ## 🧠 About Me
 
-- 🐧 Daily driving **Arch Linux** with **Hyprland**
-- 💻 Comfortable with shell scripting, debugging, and maintaining my system
-- ☁️ Deployed projects to **AWS** with Docker and NGINX
-- 🌐 Background in **networking** and CLI tools
-- 🎯 Learning DevOps with goals to work in platform or infrastructure engineering
+🐧 Daily driving <strong>Arch Linux</strong> with <strong>Hyprland</strong><br/>
+🐚 Comfortable with shell scripting, debugging, and maintaining my system<br/>
+☁️ Deployed projects to <strong>AWS</strong> using <strong>Docker</strong> and <strong>NGINX</strong><br/>
+🧑‍💻 Background in networking and CLI tools<br/>
+📈 Learning <strong>DevOps</strong>, aiming for platform or infrastructure engineering
+
+
 
 ---
 
 ## ⚙️ Tech Stack
 
-- **OS**: Arch Linux (Hyprland WM)
-- **Languages**: Bash, Python, JavaScript, C, Java (Love to learn more)
-- **Libraries/Frameworks**: React, Node.js, Express, Flask
-- **Tools**: Docker, NGINX, SSH, Netcat, Git, Systemd, AWS EC2, Apache
-- **Editor**: Neovim, Nano (Nano is goated)
-- **Shells**: bash, zsh, fish (i daily drive fish)
+### 🧰 OS & Shell
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-1E1E2E?style=for-the-badge&logo=wayland&logoColor=white)
+![fish](https://img.shields.io/badge/Fish_Shell-7CFC00?style=for-the-badge&logo=fishshell&logoColor=black)
+![zsh](https://img.shields.io/badge/Zsh-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🧑‍💻 Languages
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### ⚛️ Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🚀 Tools & Platforms
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-CA2133?style=for-the-badge&logo=apache&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-0092C2?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📝 Editors
+
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Nano](https://img.shields.io/badge/Nano-000000?style=for-the-badge&logo=gnu&logoColor=white)
 
 ---
 
@@ -41,13 +72,6 @@
 
 ---
 
-## 🔗 Connect & Projects
-
-- 🔭 Working on: CLI tools & DevOps learning journey
-- 📬 Open to collab: scripts, cloud infra, fun side projects
-
-
-
 ## 📬 Contact Me
 
 <div align="center">
@@ -58,13 +82,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps%20in%20Progress-%F0%9F%94%8A-green?style=for-the-badge"/>
-</div>
-
----
