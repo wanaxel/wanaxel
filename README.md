@@ -1,14 +1,14 @@
 <div align="center">
   <img height="100%" src="https://github.com/user-attachments/assets/c15f7600-ede0-41da-bd62-dc58c2359b58"/><br/><br/>
   <h2>Hey, I'm Axel 👋</h2>
-  <p>New to programming, Linux-only, and "i use arch btw".</p>
+  <p>New to programming, Linux-only.</p>
 </div>
 
 ---
 
 ## 🧠 About Me
 
-🐧 Daily driving <strong>Arch Linux</strong> with <strong>Hyprland</strong><br/>
+🐧 Daily driving <strong>NixOS</strong><br>
 🐚 Comfortable with shell scripting, debugging, and maintaining my system<br/>
 ☁️ Deployed projects to <strong>AWS</strong> using <strong>Docker</strong> and <strong>NGINX</strong><br/>
 🧑‍💻 Background in networking and CLI tools<br/>
@@ -22,18 +22,17 @@
 
 ### 🧰 OS & Shell
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-1E1E2E?style=for-the-badge&logo=wayland&logoColor=white)
-![fish](https://img.shields.io/badge/Fish_Shell-7CFC00?style=for-the-badge&logo=fishshell&logoColor=black)
-![zsh](https://img.shields.io/badge/Zsh-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![NixOS](https://img.shields.io/badge/Nix_Os-1793D1?style=for-the-badge&logo=nixos&logoColor=white)
+![fish](https://img.shields.io/badge/Fish_Shell-7CFC00?style=for-the-badge&logo=fish&logoColor=black)
+![zsh](https://img.shields.io/badge/Zsh-000000?style=for-the-badge&logo=zsh&logoColor=white)
 
 ### 🧑‍💻 Languages
-
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-1793D1?style=for-the-badge&logo=nixos&logoColor=white)
 
 ### ⚛️ Frameworks & Libraries
 
