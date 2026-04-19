@@ -1,19 +1,17 @@
 <div align="center">
   <img height="100%" src="https://github.com/user-attachments/assets/c15f7600-ede0-41da-bd62-dc58c2359b58"/><br/><br/>
   <h2>Hey, I'm Axel 👋</h2>
-  <p>New to programming, Linux-only.</p>
+  <p>Code for fun, Linux-only.</p>
 </div>
 
 ---
 
 ## 🧠 About Me
 
-🐧 Daily driving <strong>NixOS</strong><br>
-🐚 Comfortable with shell scripting, debugging, and maintaining my system<br/>
-☁️ Deployed projects to <strong>AWS</strong> using <strong>Docker</strong> and <strong>NGINX</strong><br/>
-🧑‍💻 Background in networking and CLI tools<br/>
-📈 Learning <strong>DevOps</strong>, aiming for platform or infrastructure engineering
-
+🐧 Daily driving NixOS flake-based config <br>
+☁️ AWS & Docker deployments, self-hosted server infra <br>
+🏆 1st place provincial, top-10 national — cloud computing <br>
+🔧 Building toward platform & infrastructure engineering <br>
 
 
 ---
